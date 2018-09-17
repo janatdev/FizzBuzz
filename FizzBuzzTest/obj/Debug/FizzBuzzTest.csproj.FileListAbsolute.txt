@@ -1,0 +1,17 @@
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.exe
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.pdb
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.exe.config
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojAssemblyReference.cache
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CopyComplete
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+c:\Users\irfanjw6\source\repos\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb
